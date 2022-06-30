@@ -1,0 +1,24 @@
+chapters:
+- chapters: []
+  folderName: main
+  name: puzzlesContent
+  path: README.md
+  sourceURL: https://github.com/vuxile-1991/puzzlesContent
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  folderName: main
+  name: Document-1
+  path: Document-1.md
+  sourceURL: https://github.com/vuxile-1991/puzzlesContent
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-release-date: 30.07.2022.
+  doc-type: Contract
+  doc-title: Test Heading
+  File Name: Contract.docx
+  doc-version: 1.0.1
+folderName: null
+name: ROOT
+path: null
+sourceURL: null
+type: null
